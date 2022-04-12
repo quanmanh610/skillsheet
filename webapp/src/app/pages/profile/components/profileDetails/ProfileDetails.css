@@ -1,0 +1,50 @@
+#personal-info {
+  max-width: 360px;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+#details {
+  margin: 60px 10px;
+  background-color: white;
+  width: 100%;
+}
+
+#section-links {
+  margin-top: 10px;
+  width: 100%;
+}
+
+
+#function-buttons {
+  width: 100%;    
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 25px;
+  right: 20px;
+  z-index: 999;
+  font-size: 11px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 2px;
+}
+
+#myBtn:hover {
+  background-color: #338bf8;
+}
+
+.right-panel {
+  width: 100%;  
+  right: 0px;
+}
+
+.candidate-profile {
+  background-color: white;
+}

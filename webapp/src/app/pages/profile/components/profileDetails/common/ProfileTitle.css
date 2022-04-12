@@ -1,0 +1,14 @@
+.profile-section-title {
+    background-color: #83B1EE;
+    height: 36px;  
+    width: 100%;         
+    padding-top: 6px;
+    padding-left: 6px;
+    color: white;
+}
+
+.section-buttons {    
+    background-color: #83B1EE !important;
+    border: none !important;
+    color: white !important;
+}

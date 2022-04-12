@@ -1,0 +1,29 @@
+.panel-header-style {
+  background-color: white !important;
+}
+.version-area {
+  height: 100%;
+  padding: 20px 20px 0px 20px !important;
+}
+.version-header-area {
+  padding: 20px !important;
+}
+
+.selected-account {
+  align-self: flex-start;
+  position: relative;
+  height: 0px;
+  top: -5px;
+  font-size: 15px;
+  vertical-align: middle !important;
+}
+
+.reset-button {
+  width: 80;
+  background-color: #8c8c8c !important; 
+  border-color: #8c8c8c !important;
+}
+
+.search-button {
+  width: 80;
+}

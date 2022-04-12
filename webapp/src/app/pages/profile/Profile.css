@@ -1,0 +1,38 @@
+.personal-avatar-area {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.version-name-text {
+  background-color: green !important;
+  padding: 4px !important;
+  color: white !important;
+  border-style: solid !important;
+  border-width: 1px !important;
+}
+.anchor-link-bar {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  height: 35px !important;
+}
+.avatar-area {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-direction: column !important;
+}
+
+.personal-right {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+}
+.personal-menu {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+}

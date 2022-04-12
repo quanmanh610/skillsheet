@@ -1,0 +1,68 @@
+.select-field {
+  width: 90%;
+  border-color: rgb(217, 217, 217);
+}
+
+#personal-date-picker {
+  width: 100%;
+  border: 1px solid rgb(217, 217, 217);  
+}
+
+.react-datepicker-wrapper {
+  width: 90%;
+}
+
+.personal-info-field {
+  width: 90% !important;
+}
+
+.intro-section {
+  width: 100%;
+  margin: 10px;
+}
+
+#view-personal {
+  background-color: white;
+  padding-top: 20px;
+}
+
+#intro {
+  background-color: white;
+  padding-top: 20px;
+  margin-top: 10px;
+}
+
+.view-personal-resize {
+  position: fixed;
+  top: 45px;
+  width: 100%;
+  z-index: 98;
+  background-color: #F0F2F5;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.edit-button-small-view {
+  padding: 0 5px;
+}
+
+.save-all {
+  background-color: #FF8D18 !important;
+  border-color: #FF8D18 !important;
+}
+
+.container {
+  border-radius: 2px;
+}
+
+.left-panel {
+  width: 100%;
+}
+
+#view-personal {
+  width: 100%;
+}
+
+#intro {
+  width: 100%;
+}

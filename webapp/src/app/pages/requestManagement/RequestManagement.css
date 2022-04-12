@@ -1,0 +1,19 @@
+.panel-header-style {
+  background-color: white !important;
+}
+.requestManagement-area {
+  height: 100%;
+  padding: 20px 20px 0px 20px !important;
+}
+.requestManagement-header-area {
+  padding: 20px !important;
+}
+
+.selected-account {
+  align-self: flex-start;
+  position: relative;
+  height: 0px;
+  top: -5px;
+  font-size: 15px;
+  vertical-align: middle !important;
+}

@@ -1,0 +1,40 @@
+/* mouse over link */
+.anchor-link-bar a:hover {
+  color:#3789F8;
+}
+
+.link-bar-sticky {
+  position: sticky;
+  top: 180px;
+  background-color: white;
+  width: 100%;
+  padding: 10px;
+  padding-top: 15px;
+  height: 420px;
+  border-radius: 2px;
+  margin-left: 20px;
+}
+
+Link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: left;
+}
+
+.link {
+  color: black;
+}
+
+.active {
+  color: #3789F8;
+}
+
+/* .circle {
+  background-color: red;
+  width: 10px;
+  height: 10px;
+} */
+

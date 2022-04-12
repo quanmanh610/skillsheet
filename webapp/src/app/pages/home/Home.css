@@ -1,0 +1,67 @@
+.padding-left-20 {
+  padding-left: 20px;
+}
+
+.best-skill {
+  color: rgb(255, 141, 24);
+}
+
+.search-skill {
+  background-color:#FFFF00;
+}
+
+.search-field {
+  width: 100%;
+  text-align: right;
+}
+
+a.profile-link {
+  color: #338bf8 !important;
+  font-size: 14px;
+}
+
+.panel-header-style {
+  background-color: white !important;
+}
+.home-area {
+  height: 100%;
+  padding: 20px 20px 0px 20px !important;
+}
+.home-header-area {
+  padding: 20px !important;
+}
+
+.account-selected {
+  position: relative;
+  top: -42px;
+  height: 0px;
+  font-size: 15px;
+}
+
+.ant-pagination {
+  width: 100% !important;
+  margin: 10px 0px !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
+.ant-pagination-total-text {
+  width: 100% !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  vertical-align: middle !important;
+}
+
+.selected-account {
+  align-self: flex-start;
+  position: relative;
+  height: 0px;
+  top: -5px;
+  font-size: 15px;
+  vertical-align: middle !important;
+}
+
+/* ant-pagination ant-table-pagination ant-table-pagination-right mini */

@@ -1,0 +1,12 @@
+#btnStatusList {
+    width: 100%;
+    text-align: right;
+}
+
+#roleName {
+    width: 100%;
+}
+
+#selectedStatus {
+    float: left;
+}
